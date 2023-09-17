@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.luv2code.springboot.demo.mycoolapp.rest","c":"FunRestController","l":"FunRestController()","u":"%3Cinit%3E()"},{"p":"com.luv2code.springboot.demo.mycoolapp.rest","c":"FunRestController","l":"hello()"}];updateSearchResults();

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.luv2code.springboot.demo.mycoolapp.rest"}];updateSearchResults();
